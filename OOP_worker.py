@@ -14,7 +14,7 @@ class Worker:
 animal = Worker("Dominik","AnimalPK",6000)
 animal.payout(5000)
 animal.printit()
-
+#...
 shaker = Worker("Stratimir","dPartyShaker",5000)
 shaker.payout(11000)
 shaker.printit()
