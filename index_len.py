@@ -1,0 +1,1 @@
+str = input("Enter string: ")print(f"Index is: {str.index(input("Search for: "))}")print(f"Lenght is: {len(str)}")print(f"You said '{str}'" + " !")str2 = input("First text: ")str3 = input("Second: " )print(f"Is first text longer? {len(str2) > len(str3)}")
